@@ -4,11 +4,11 @@ Python script that implements scoring algorithm described in Thompson & Traill C
 
 Takes a .mrc file, outputs a .csv file containing results.
 
-##Requires
+## Requires
 pymarc
 pandas
 
-##Usage
+## Usage
 
 ./thompson-traill-command.py [.mrc file]
 
