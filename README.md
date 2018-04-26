@@ -5,8 +5,8 @@ Python script that implements scoring algorithm described in Thompson & Traill C
 Takes a .mrc file, outputs a .csv file containing results.
 
 ## Requires
-pymarc
-pandas
+- pymarc
+- pandas
 
 ## Usage
 
