@@ -1,4 +1,4 @@
-# tt-marc-completeness
+# tt-marc-analysis
 
 Python script that implements scoring algorithm described in Thompson & Traill Code4lib article: http://journal.code4lib.org/articles/12828, with some additional local customizations.
 
